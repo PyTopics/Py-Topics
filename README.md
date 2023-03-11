@@ -19,6 +19,7 @@ The "PyTopics" repository is one of a kind, collection of easy-to-understand Pyt
 # Contributors 🖥️
 
 We welcome contributions to uptrain. Please see our [contribution guide](https://github.com/PyTopics/Py-Topics/blob/main/CONTRIBUTING.md) for details.
+
 <a href="https://github.com/PyTopics/Py-Topics/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=PyTopics/Py-Topics" />
 </a>
