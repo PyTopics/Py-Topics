@@ -1,6 +1,6 @@
 <h4 align="center">
   <a href="https://github.com/PyTopics/Py-Topics">
-    <img width="400" src="Setups/pytopic.png" alt="PyTopics">
+    <img width="300" src="Setups/pytopic.png" alt="PyTopics">
   </a>
 </h4>
 <h1>
