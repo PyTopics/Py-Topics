@@ -9,7 +9,9 @@
   </h1>
 </h1>
 
-[![Python](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/) [![Contribute](https://img.shields.io/badge/Contribute-Read-success.svg)](#)
+[![Python](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/) 
+[![Contribute](https://img.shields.io/badge/Contribute-Read-success.svg)](https://github.com/PyTopics/Py-Topics/blob/main/CONTRIBUTING.md)
+[![Template](https://img.shields.io/badge/Template-Get-success.svg)](https://github.com/PyTopics/Py-Topics/blob/main/Setups/sample_template.ipynb)
 
 
 # What is PyTopics 🤔?
